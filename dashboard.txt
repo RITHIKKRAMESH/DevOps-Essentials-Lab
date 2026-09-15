@@ -1,0 +1,3 @@
+Dashboard Feature
+
+This file represents the dashboard functionality of the application.
